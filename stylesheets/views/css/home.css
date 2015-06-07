@@ -1,0 +1,68 @@
+* {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  -ms-box-sizing: border-box;
+  box-sizing: border-box; }
+
+div[class^='col-'] {
+  margin-top: 14px;
+  margin-bottom: 14px; }
+  div[class^='col-'] div {
+    min-height: 50px; }
+
+.blue {
+  background-color: blue; }
+
+.red {
+  background-color: red; }
+
+.orange {
+  background-color: orange; }
+
+.yellow {
+  background-color: yellow; }
+
+.pink {
+  background-color: pink; }
+
+.gray {
+  background-color: gray; }
+
+.skyblue {
+  background-color: skyblue; }
+
+.tomato {
+  background-color: tomato; }
+
+/*Formula para height*/
+.h-60 {
+  height: 60px; }
+
+.h-120 {
+  height: 120px; }
+
+.h-180 {
+  height: 180px; }
+
+.h-240 {
+  height: 240px; }
+
+.h-300 {
+  height: 300px; }
+
+.h-360 {
+  height: 360px; }
+
+.h-420 {
+  height: 420px; }
+
+.h-480 {
+  height: 480px; }
+
+.h-540 {
+  height: 540px; }
+
+.h-600 {
+  height: 600px; }
+
+/*# sourceMappingURL=home.css.map */
